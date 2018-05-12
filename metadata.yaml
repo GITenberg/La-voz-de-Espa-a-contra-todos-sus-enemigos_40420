@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40615'
     url: http://www.gutenberg.org/2009/agents/40615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40420#La-voz-de-Espa-a-contra-todos-sus-enemigos
 gutenberg_issued: '2012-08-05'
 gutenberg_type: Text
 identifiers:
